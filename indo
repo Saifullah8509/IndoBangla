@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla", Zee Bangla
-http://208.86.19.21/906.stream/tracks-v1a1/mono.m3u8
+http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian-Bangla", Colors Bangla Ch-1
 http://208.86.19.21/904.stream/tracks-v1a1/mono.m3u8
