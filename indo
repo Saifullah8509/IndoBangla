@@ -1,15 +1,17 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla", Zee Bangla
-http://103.159.4.38:5868/IN-BANGLA-4/tracks-v1a1/mono.m3u8
+http://bdixtv.live:8080/ZeeBanglaHD/tracks-v1a1/mono.m3u8?token=05875f94372624392570287386bd0a76e21f4f5a-fe4c4fbfe39e5436160a8ffaea9548b2-1645896790-1645885990
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/8z5yuaoyryedp6l/ZB.jpg" group-title="Indian-Bangla", Zee Bangla HD
+http://ddn.oncast.me:1934/X5RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0UOezN/zee-bangla/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HVZHZGl.png" group-title="Indian-Bangla", Colors Bangla Ch-1
 http://208.86.19.21/904.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hAmFkQB.jpg" group-title="Indian-Bangla", Jalsha Movies HD
-http://208.86.19.21/716.stream/tracks-v1a1/mono.m3u8
+http://bdixtv.live:8080/Jalsha-Movies/tracks-v1a1/mono.m3u8?token=39b2fe044596fa7344cba69a5f6512cb5c40d8ed-75fa49e8c7fa6942222de63b3f3286be-1645896826-1645886026
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/D6jGMpw.jpg" group-title="Indian-Bangla", Star Jalsha
-http://208.86.19.21/908.stream/tracks-v1a1/mono.m3u8
+http://bdixtv.live:8080/StarJalsha/tracks-v1a1/mono.m3u8?token=0a99038738f3495f70100b89f8962e6737aa6d48-ac7c8bd21d4ab3dc46cfccdd117a4bcf-1645896754-1645885954
 
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/image29282f9d45a183d6.png" group-title="BANGLA", RTV
 http://208.86.19.21/684.stream/tracks-v1a1/mono.m3u8
@@ -22,6 +24,12 @@ http://208.86.19.21/689.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="" group-title="BANGLA",MAASRANGA TV HD
 http://208.86.19.21/686.stream/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/k7z1dsec1jfjbkn/jamuna_tv_bd.png" group-title="BANGLA",JAMUNA TV
+http://bdixtv.live:8080/Jamuna-TV/tracks-v1a1/mono.m3u8?token=3f0de19f5cd4b8728988baac94fedba1236e76d0-ea34d057601311cd42f4503c8d2dead2-1645896864-1645886064
+
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/3usnOla.png" group-title="BANGLA", NTV Ch-1
+http://bdixtv.live:8080/Ntv/tracks-v1a1/mono.m3u8?token=69f222cc9d60239121224a94da8a5af89a5ef6bd-e478ff998770cd0805b15cb97674a210-1645896995-1645886195
 
 #EXTINF:-1 tvg-logo="https://concordrope.com/hzbd-iptv/logo/channel_i.png" group-title="BANGLA", Channel I
 http://208.86.19.21/680.stream/tracks-v1a1/mono.m3u8
@@ -29,17 +37,22 @@ http://208.86.19.21/680.stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/djAX8Rc.png" group-title="BANGLA", DBC New Ch-1
 http://208.86.19.21/614.stream/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/image87250d092deb08a2.png" group-title="BANGLA", Bangla TV
+http://bdixtv.live:8080/Bangla-TV/tracks-v1a1/mono.m3u8?token=94e61910332062951545aae01402610b3a7bf4cd-c9fdc871805e047fc65cfa9db427ae10-1645897089-1645886289
+
 #EXTINF:-1 tvg-logo="https://s4.gifyu.com/images/imagea02f4314e761661d.png" group-title="BANGLA",Ekattor
 http://208.86.19.21/604.stream/tracks-v1a1/mono.m3u8
+http://103.159.4.38:5868/BD-BANGLA-7/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/1bmJ8rT.png" group-title="BANGLA",CHANNEL 24
-http://208.86.19.21/687.stream/tracks-v1a1/mono.m3u8
+http://103.159.4.38:5868/BD-BANGLA-12/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://s6.gifyu.com/images/my-tv.png" group-title="BANGLA", My TV Ch-1
 https://tempx.jagobd.com:441/c5V6mmMyX7RpbEU9Mi8xNy8yMDEOGIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PT0mdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Z13U9Vt.png" group-title="BANGLA", Deepto TV
-http://208.86.19.21/609.stream/tracks-v1a1/mono.m3u8
+http://ddn.oncast.me:1934/dlive/natgw.stream/chunks.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://dl.dropbox.com/s/gh7vl0wtdz361zo/ANT.png" group-title="HINDi",Zee Cinema
@@ -70,6 +83,7 @@ http://208.86.19.21/705.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/CJUmEHD.png" group-title="Sports", T Sports Ch-1
 http://208.86.19.21/905.stream/tracks-v1a1/mono.m3u8
+http://bdixtv.live:8080/Local-Sports/tracks-v1a1/mono.m3u8?token=5da4eb517dce4be6aa3677311546807b66cae5ce-dc3b821e585893ef02024e34ba8af23c-1645896627-1645885827
 
 #EXTINF:-1 tvg-logo="http://127.0.0.1/" group-title="Sports", Ten Sports Ch-1
 http://208.86.19.21/726.stream/tracks-v1a1/mono.m3u8
@@ -82,7 +96,7 @@ http://208.86.19.21/712.stream/tracks-v1a1/mono.m3u8
 http://208.86.19.21/713.stream/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://aimages.willow.tv/wlo_logo_200_200.jpg" group-title="Sports", Willow
-http://208.86.19.21/731.stream/index.m3u8
+http://bdixtv.live:8080/GAZI/tracks-v1a1/mono.m3u8?token=6857daaeff5c1240c8c6056c473821d9b3832f9d-4fa64897d74e8c1d2b388e4c26eaeb51-1645896691-1645885891
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/BIZxgNmcljI/mqdefault.jpg" group-title="SPORTS", Star Cricket
 http://208.86.19.21/737.stream/tracks-v1a1/mono.m3u8
