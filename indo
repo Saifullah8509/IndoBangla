@@ -188,7 +188,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 ,Channel S UK freecatv
 http://208.86.19.13:81/519.stream/index.m3u8
 #EXTINF:-1 ,NANDAN Official
-https://web.nandansyst.com/hls/nandan_mid/index.m3u8
+https://web.nandansyst.com/hls/nandan_src/index.m3u8
 #EXTINF:-1 ,TBN24 TV UK Official
 https://dog.dg21bd.com:443/TBN242/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,TBN24 TV freecatv
